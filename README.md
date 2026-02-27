@@ -23,4 +23,4 @@ This project performs basic arithmetic operations with a clean UI and structured
 
 ## 🚀 Purpose
 
-Built to practice React fundamentals, event handling, and calculator logic using a structured approach.
+Built to practice React fundamentals, useReducer()hook, event handling, and calculator logic using a structured approach.
